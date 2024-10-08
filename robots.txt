@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://kayirofelupu.pages.dev/sitemap.xml
